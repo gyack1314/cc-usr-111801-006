@@ -2,10 +2,9 @@
   "kind": "page",
   "id": "page-B",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "乙地",
-  "references": [
-    "report-A"
-  ],
-  "verified": false
+  "report": "R-1",
+  "page": 1,
+  "sample": "S-1",
+  "pressure_mpa": 10,
+  "image_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
 }

@@ -2,10 +2,12 @@
   "kind": "report",
   "id": "report-A",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "丙地",
-  "references": [
-    "page-B"
+  "report": "R-1",
+  "sample": "S-1",
+  "material_batch": "B-1",
+  "pages": [
+    1,
+    2
   ],
-  "attachment": "source-2.bin"
+  "source_revision": "conflicting-copy"
 }
