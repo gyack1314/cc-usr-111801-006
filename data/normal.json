@@ -1,0 +1,33 @@
+{
+  "allowed_origins": [
+    "https://source-006.example.test"
+  ],
+  "steps": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://source-006.example.test/records/report-A",
+        "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "response": {
+        "file": "source-1.bin",
+        "status": 200,
+        "bytes": 179,
+        "sha256": "53f8e1dbaef94741541d4118514bb634b1bd5271b0aad7c88f8c4a028ed333e2"
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://source-006.example.test/records/page-B",
+        "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "response": {
+        "file": "source-2.bin",
+        "status": 200,
+        "bytes": 166,
+        "sha256": "47dc3f16bb8ee3715cf56d18d5043d01b1d909056ba116ee0bd330c177731085"
+      }
+    }
+  ]
+}

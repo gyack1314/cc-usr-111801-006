@@ -1,0 +1,11 @@
+{
+  "kind": "report",
+  "id": "report-A",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "丙地",
+  "references": [
+    "page-B"
+  ],
+  "attachment": "source-2.bin"
+}

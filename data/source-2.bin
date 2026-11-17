@@ -1,0 +1,11 @@
+{
+  "kind": "page",
+  "id": "page-B",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "乙地",
+  "references": [
+    "report-A"
+  ],
+  "verified": false
+}
